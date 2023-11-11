@@ -3,7 +3,7 @@ const crypto = require('crypto');
 
 const SYMBOL = 'BTCUSDT';
 const BUY_PRICE = 34977;
-const SELL_PRICE = 35180;
+const SELL_PRICE = 35170;
 const QUANTITY = '0.001';
 const API_LEY =
   'm2lDx32y8jSR1lIC1A0vjqfYT7uoQ1nZ6xxY47cKyAagRqmpfjSQnKVOYmVl1Kcw';
